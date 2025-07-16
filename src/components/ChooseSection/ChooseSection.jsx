@@ -5,7 +5,7 @@ function ChooseSection() {
   return (
     <div>
         <div className="container">
-            <h2 className='text-center mb-5'>Why choose React University ?</h2>
+            <h2 className='text-center mb-5'>Why choose Jamhuriya University ?</h2>
             <div className='row g-4'>
                 <div className='col-lg-4'>
                     <Card className='d-flex align-items-center border-0 h-100'>
@@ -16,10 +16,10 @@ function ChooseSection() {
                         </div>
                         <Card.Body>
                             <Card.Title className='text-center text-capitalize mb-3'>
-                                2 trophies received
+                                trophies received
                             </Card.Title>
                             <Card.Text className='text-center'>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit laborum qui facilis perspiciatis, ab pariatur! Eaque maxime ratione illum distinctio?
+                                JUST has earned national awards and academic recognition through innovation, quality teaching, and student success
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -36,7 +36,7 @@ function ChooseSection() {
                                 We keep our students happy
                             </Card.Title>
                             <Card.Text className='text-center'>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit laborum qui facilis perspiciatis, ab pariatur! Eaque maxime ratione illum distinctio?
+                               We prioritize student satisfaction through engaging campus life, supportive services, and quality education.
                             </Card.Text>
                         </Card.Body>
                     </Card>
@@ -50,10 +50,10 @@ function ChooseSection() {
                         </div>
                         <Card.Body>
                             <Card.Title className='text-center text-capitalize mb-3'>
-                                3 locations in UK
+                                locations in mogadishu
                             </Card.Title>
                             <Card.Text className='text-center'>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit laborum qui facilis perspiciatis, ab pariatur! Eaque maxime ratione illum distinctio?
+                                Located in the heart of Mogadishu, JUST operates from multiple modern campuses easily accessible across the city.
                             </Card.Text>
                         </Card.Body>
                     </Card>
